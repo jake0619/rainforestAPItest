@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rainforestAPI</string>
+    <string name="instructions">instructions</string>
+    <string name="input_hint">input_hint</string>
+    <string name="button_text">button_text</string>
+    <string name="no_results">no_results</string>
+    <string name="loading">Loading...</string>
+</resources>
